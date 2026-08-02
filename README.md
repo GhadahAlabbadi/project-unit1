@@ -4,3 +4,4 @@
 2- operate .ps1 file in the terminal in 1 click
 <img width="1468" height="1470" alt="Screenshot 2026-08-02 181907" src="https://github.com/user-attachments/assets/3b8b3f18-e32a-4bd4-8160-564c38e9d3ca" />
 3- final result here in GitHub!
+# Ghadah Ammar Alabbadi
